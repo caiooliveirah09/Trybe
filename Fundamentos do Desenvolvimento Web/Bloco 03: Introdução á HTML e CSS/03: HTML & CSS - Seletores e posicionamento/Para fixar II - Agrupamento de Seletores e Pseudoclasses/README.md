@@ -35,7 +35,7 @@ _index.html_
 
 **1** - Estilize as divs para que, ao passar o cursor por cima das mesmas, elas ganhem uma borda.
 
-**2**** - Faça cada div ter uma cor própria.
+**2** - Faça cada div ter uma cor própria.
 
 **3** - Estilize cada uma das tags h3 .
 
