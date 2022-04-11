@@ -18,8 +18,6 @@ let medals = { golden: 2, silver: 3 };
 
 **3** - Adicione ao objeto a chave _bestInTheWorld_ e atribua a esta chave um _array_ contendo as datas em que a jogadora Marta foi considerada a melhor do mundo. 
 
-<br>
-
 ```
 [2006, 2007, 2008, 2009, 2010, 2018]
 ```
