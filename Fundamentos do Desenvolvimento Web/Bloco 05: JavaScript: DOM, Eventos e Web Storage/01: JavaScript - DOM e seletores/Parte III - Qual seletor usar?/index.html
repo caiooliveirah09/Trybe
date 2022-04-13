@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+  <header>
+    <h2 id="page-title">Título</h2>
+    <p class="style-paragraph" id="paragraph">Dê uma cor para este parágrafo!</p>
+    <h4 id="subtitle">Subtítulo</h4>
+    <p class="style-paragraph" id="second-paragraph">Segundo parágrafo!</p>
+  </header>
+  <script>
+    const paragraph = document.querySelector("#paragraph")
+    paragraph.style.color = "blue"
+
+    document.querySelector("#page-title").innerText = "Lorem Ipsum"
+
+    document.querySelector("#second-paragraph").innerText = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel."
+
+    document.querySelector("#subtitle").innerText = "Lorem Ipsum"
+
+    document.querySelectorAll(".style-paragraph")[1].style.color = "red"
+
+    document.querySelectorAll("h4")[0].style.color = "yellow"
+  </script>
+</body>
+
+</html>
