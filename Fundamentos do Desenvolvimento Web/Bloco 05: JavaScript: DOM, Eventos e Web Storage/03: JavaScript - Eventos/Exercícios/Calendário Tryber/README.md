@@ -243,13 +243,13 @@ Para uma melhor organização, faça commits a cada tarefa concluída. Vamos aos
 
 ## Exercício 1:
 
-O array _dezDaysList_ contém os dois últimos dias de novembro e os dias do mês de dezembro. Desenvolva uma função que crie dinamicamente cada dia do calendário e os adicione como filhos/filhas da tag _<ul>_ com ID _"days"_ . Note que os dias 29 e 30 de novembro estão no array pois representam respectivamente Domingo e Segunda-feira.
+O array _dezDaysList_ contém os dois últimos dias de novembro e os dias do mês de dezembro. Desenvolva uma função que crie dinamicamente cada dia do calendário e os adicione como filhos/filhas da tag _ul_ com ID _"days"_ . Note que os dias 29 e 30 de novembro estão no array pois representam respectivamente Domingo e Segunda-feira.
 
-* Os dias devem estar contidos em uma tag _<li>_ , e todos devem ter a classe _day_ . Ex: _<li class="day">3</li>_
+* Os dias devem estar contidos em uma tag _li_ , e todos devem ter a classe _day_ . Ex: _li class="day">3</li_
 
-* Os dias 24, 25 e 31 são feriados e, além da classe _day_ , devem conter também a classe _holiday_ . Ex: _<li class="day holiday">24</li>_
+* Os dias 24, 25 e 31 são feriados e, além da classe _day_ , devem conter também a classe _holiday_ . Ex: _li class="day holiday">24</li_
 
-* Os dias 4, 11, 18 e 25 são Sexta-feira. Eles devem conter a classe _day_ e a classe _friday_ . Ex: _<li class="day friday">4</li>_
+* Os dias 4, 11, 18 e 25 são Sexta-feira. Eles devem conter a classe _day_ e a classe _friday_ . Ex: _li class="day friday">4</li_
 
 ```
 const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];
@@ -262,7 +262,7 @@ Implemente uma função que receba como parâmetro a string "Feriados" e crie di
 
 * Adicione a este botão a ID _"btn-holiday"_ .
 
-* Adicione este botão como filho/filha da tag <div> com classe _"buttons-container"_ .
+* Adicione este botão como filho/filha da tag _div_ com classe _"buttons-container"_ .
 
 ## Exercício 3:
 
@@ -276,7 +276,7 @@ Implemente uma função que receba como parâmetro a string "Sexta-feira" e crie
 
 * Adicione a este botão o ID _"btn-friday"_ .
 
-* Adicione este botão como filho/filha da tag _<div>_ com classe _"buttons-container"_ .
+* Adicione este botão como filho/filha da tag _div_ com classe _"buttons-container"_ .
 
 ## Exercício 5:
 
@@ -292,21 +292,21 @@ Implemente duas funções que criem um efeito de "zoom". Ao passar o ponteiro do
 
 ## Exercício 7:
 
-Implemente uma função que adiciona uma tarefa personalizada ao calendário. A função deve receber como parâmetro a string com o nome da tarefa (ex: "cozinhar") e criar dinamicamente um elemento com a tag _<span>_ contendo a tarefa.
+Implemente uma função que adiciona uma tarefa personalizada ao calendário. A função deve receber como parâmetro a string com o nome da tarefa (ex: "cozinhar") e criar dinamicamente um elemento com a tag span contendo a tarefa.
 
-* O elemento criado deverá ser adicionado como filho/filha da tag _<div>_ que possui a classe _"my-tasks"_ .
+* O elemento criado deverá ser adicionado como filho/filha da tag _div_ que possui a classe _"my-tasks"_ .
 
 ## Exercício 8:
 
-Implemente uma função que adiciona uma legenda com cor para a tarefa criada no exercício anterior. Esta função deverá receber como parâmetro uma string ("cor") e criar dinamicamente um elemento de tag _<div>_ com a classe _task_ .
+Implemente uma função que adiciona uma legenda com cor para a tarefa criada no exercício anterior. Esta função deverá receber como parâmetro uma string ("cor") e criar dinamicamente um elemento de tag _div_ com a classe _task_ .
 
-* O parâmetro cor deverá ser utilizado como cor de fundo da _<div>_ criada.
+* O parâmetro cor deverá ser utilizado como cor de fundo da div criada.
 
-* O elemento criado deverá ser adicionado como filho/filha da tag _<div>_ que possui a classe _"my-tasks"_ .
+* O elemento criado deverá ser adicionado como filho/filha da tag _div_ que possui a classe _"my-tasks"_ .
 
 ## Exercício 9:
 
-Implemente uma função que adiciona um evento que, ao clicar no elemento com a tag _<div>_ referente a cor da sua tarefa, atribua a este elemento a classe _task selected_ , ou seja, quando sua tarefa possuir a classe _task selected_ , ela estará selecionada.
+Implemente uma função que adiciona um evento que, ao clicar no elemento com a tag _div_ referente a cor da sua tarefa, atribua a este elemento a classe _task selected_ , ou seja, quando sua tarefa possuir a classe _task selected_ , ela estará selecionada.
 
 * Ao clicar novamente no elemento, a sua classe deverá voltar a ser somente _task_ , ou seja, esta tarefa está deixando de ser uma tarefa selecionada.
 
