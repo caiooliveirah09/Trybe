@@ -1,0 +1,130 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+@media screen and (max-width: 767px) {
+  #title {
+    font-size: 30px;
+  }
+  
+  #nav {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+  }
+ 
+  li {
+    font-size: 20px;
+    margin-top: 8px;
+  }
+  
+  h1 {
+    font-size: 25px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+
+  body {
+    margin: 15px;
+  }
+
+  h3 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #title {
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #nav {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+  }
+ 
+  li {
+    font-size: 25px;
+    margin-top: 8px;
+  }
+  
+  h1 {
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+  
+  p {
+    font-size: 25px;
+  }
+
+  body {
+    margin: 15px;
+  }
+
+  h3 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  #title {
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #nav {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+  }
+ 
+  li {
+    font-size: 25px;
+    margin-top: 8px;
+  }
+  
+  h1 {
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+  
+  p {
+    font-size: 25px;
+  }
+
+  body {
+    margin: 15px;
+    width: 90%;
+    
+  }
+
+  h3 {
+    font-size: 30px;
+  }
+
+}
