@@ -1,4 +1,4 @@
-# Vamos treinar!
+# Vamos treinar! :heavy_check_mark:
 
 Usando os comandos que você acabou de aprender, resolva os seguintes desafios:
 
