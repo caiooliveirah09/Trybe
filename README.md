@@ -17,13 +17,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ :heavy_check_mark: ] 2-1: _O que é e para que serve?_
 - [ :heavy_check_mark: ] 2-2: _Entendendo os comandos_
-- [ :white_check_mark:] 2-3: _Internet - Entendendo como ela funciona_
+- [ :heavy_check_mark:] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução - HTML & CSS
 
-- [ :white_check_mark: ] 3-1: _HTML & CSS - Estruturas de página_
+- [ :heavy_check_mark: ] 3-1: _HTML & CSS - Estruturas de página_
 - [ :heavy_check_mark: ] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [ :hourglass_flowing_sand: ] 3-3: _HTML & CSS - Seletores e posicionamento_
+- [ :heavy_check_mark: ] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [ :heavy_check_mark: ] 3-4: _HTML Semântico_
 - [ :heavy_check_mark: ] 3-5: _[Projeto - HTML & CSS]()_
 
