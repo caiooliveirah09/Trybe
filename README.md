@@ -10,142 +10,142 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 1: Introdução - Unix & Shell
 
-- [ :white_check_mark: ] 1-3: _Unix & Shell- Part 1_
+- [ :heavy_check_mark:] 1-3: _Unix & Shell- Part 1_
 - [ :white_check_mark: ] 1-4: _Unix & Shell- Part 2_
 
 ##### Bloco 2: Git & GitHub
 
-- [ :white_check_mark: ] 2-1: _O que é e para que serve?_
-- [ :white_check_mark: ] 2-2: _Entendendo os comandos_
+- [ :heavy_check_mark: ] 2-1: _O que é e para que serve?_
+- [ :heavy_check_mark: ] 2-2: _Entendendo os comandos_
 - [ :white_check_mark:] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução - HTML & CSS
 
 - [ :white_check_mark: ] 3-1: _HTML & CSS - Estruturas de página_
-- [ :hourglass_flowing_sand: ] 3-2: _HTML & CSS - Primeiros passos em CSS_
+- [ :heavy_check_mark: ] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [ :hourglass_flowing_sand: ] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [ :hourglass_flowing_sand: ] 3-4: _HTML Semântico_
-- [ :hourglass_flowing_sand: ] 3-5: _[Projeto - HTML & CSS]()_
+- [ :heavy_check_mark: ] 3-4: _HTML Semântico_
+- [ :heavy_check_mark: ] 3-5: _[Projeto - HTML & CSS]()_
 
 ##### Bloco 4: Introdução - JavaScript
 
-- [ :hourglass_flowing_sand: ] 4-1: _JavaScript - Primeiros passos_
-- [ :hourglass_flowing_sand: ] 4-2: _JavaScript - Array e loop For_
-- [ :hourglass_flowing_sand: ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [ :hourglass_flowing_sand: ] 4-4: _JavaScript - Objetos e funções_
-- [ :hourglass_flowing_sand: ] 4-5: _[Projeto - Playground Functions]()_
+- [ :heavy_check_mark: ] 4-1: _JavaScript - Primeiros passos_
+- [ :heavy_check_mark: ] 4-2: _JavaScript - Array e loop For_
+- [ :heavy_check_mark: ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [ :heavy_check_mark: ] 4-4: _JavaScript - Objetos e funções_
+- [ :heavy_check_mark: ] 4-5: _[Projeto - Playground Functions]()_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
-- [ :hourglass_flowing_sand: ] 5-1: _JavaScript - DOM e seletores_
-- [ :hourglass_flowing_sand: ] 5-2: _JavaScript - Trabalhando com elementos_
-- [ :hourglass_flowing_sand: ] 5-3: _JavaScript - Eventos_
-- [ :hourglass_flowing_sand: ] 5-4: _JavaScript - Web Storage_
-- [ :hourglass_flowing_sand: ] 5-5: _[Projeto - Meme Generator]()_
-- [ :hourglass_flowing_sand: ] 5-6: _[Projeto - Arte com Pixels]()_
-- [ :hourglass_flowing_sand: ] 5-7: _[Projeto - Lista de tarefas]()_
-- [ :hourglass_flowing_sand: ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ :hourglass_flowing_sand: ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [ :heavy_check_mark: ] 5-1: _JavaScript - DOM e seletores_
+- [ :heavy_check_mark: ] 5-2: _JavaScript - Trabalhando com elementos_
+- [ :heavy_check_mark: ] 5-3: _JavaScript - Eventos_
+- [ :heavy_check_mark: ] 5-4: _JavaScript - Web Storage_
+- [ :heavy_check_mark: ] 5-5: _[Projeto - Meme Generator]()_
+- [ :heavy_check_mark: ] 5-6: _[Projeto - Arte com Pixels]()_
+- [ :heavy_check_mark: ] 5-7: _[Projeto - Lista de tarefas]()_
+- [ :heavy_check_mark: ] 5-7: _[Projeto - Adivinhe a Cor]()_
+- [ :heavy_check_mark: ] 5-7: _[Projeto - Carta Misteriosa]()_
 
 ##### Bloco 6: HTML & CSS avançado
 
-- [ :hourglass_flowing_sand: ] 6-1: _HTML & CSS - Forms_
-- [ :hourglass_flowing_sand: ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ :hourglass_flowing_sand: ] 6-3: _CSS Flexbox - Part 1_
-- [ :hourglass_flowing_sand: ] 6-4: _CSS Flexbox - Part 2_
-- [ :hourglass_flowing_sand: ] 6-5: _CSS Responsivo - Mobile First_
-- [ :hourglass_flowing_sand: ] 6-6: _[Projeto - Página inicial do Facebook]()_
+- [ :heavy_check_mark: ] 6-1: _HTML & CSS - Forms_
+- [ :heavy_check_mark: ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [ :heavy_check_mark: ] 6-3: _CSS Flexbox - Part 1_
+- [ :heavy_check_mark: ] 6-4: _CSS Flexbox - Part 2_
+- [ :heavy_check_mark: ] 6-5: _CSS Responsivo - Mobile First_
+- [ :heavy_check_mark: ] 6-6: _[Projeto - Página inicial do Facebook]()_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
-- [ :hourglass_flowing_sand: ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ :hourglass_flowing_sand: ] 7-2: _JavaScript ES6 - Objects_
-- [ :hourglass_flowing_sand: ] 7-3: _Testes unitários em JavaScript_
-- [ :hourglass_flowing_sand: ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [ :heavy_check_mark: ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [ :heavy_check_mark: ] 7-2: _JavaScript ES6 - Objects_
+- [ :heavy_check_mark: ] 7-3: _Testes unitários em JavaScript_
+- [ :heavy_check_mark: ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ##### Bloco 8: JavaScript ES6
 
-- [ :hourglass_flowing_sand: ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ :hourglass_flowing_sand: ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ :hourglass_flowing_sand: ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ :hourglass_flowing_sand: ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ :hourglass_flowing_sand: ] 8-5: _[Projeto - Zoo functions]()_
+- [ :heavy_check_mark: ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [ :heavy_check_mark: ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [ :heavy_check_mark: ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
+- [ :heavy_check_mark: ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [ :heavy_check_mark: ] 8-5: _[Projeto - Zoo functions]()_
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
-- [ :hourglass_flowing_sand: ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ :hourglass_flowing_sand: ] 9-2: _JavaScript Promises_
-- [ :hourglass_flowing_sand: ] 9-3: _[Projeto - Carrinho de Compras]()_
+- [ :heavy_check_mark: ] 9-1: _JavaScript Assíncrono e Callbacks_
+- [ :heavy_check_mark: ] 9-2: _JavaScript Promises_
+- [ :heavy_check_mark: ] 9-3: _[Projeto - Carrinho de Compras]()_
 
 ##### Bloco 10: Jest
 
-- [ :hourglass_flowing_sand: ] 10-1: _Primeiros passos no Jest_
-- [ :hourglass_flowing_sand: ] 10-2: _Jest - Testes Assíncronos_
-- [ :hourglass_flowing_sand: ] 10-3: _Jest - Simulando comportamentos_
-- [ :hourglass_flowing_sand: ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [ :heavy_check_mark: ] 10-1: _Primeiros passos no Jest_
+- [ :heavy_check_mark: ] 10-2: _Jest - Testes Assíncronos_
+- [ :heavy_check_mark: ] 10-3: _Jest - Simulando comportamentos_
+- [ :heavy_check_mark: ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução - React
 
-- [ :hourglass_flowing_sand: ] 11-1: _'Hello, world!' no React!_
-- [ :hourglass_flowing_sand: ] 11-2: _Componentes React_
-- [ :hourglass_flowing_sand: ] 11-3: _[Projeto - Movie Cards Library]()_
+- [ :heavy_check_mark: ] 11-1: _'Hello, world!' no React!_
+- [ :heavy_check_mark: ] 11-2: _Componentes React_
+- [ :heavy_check_mark: ] 11-3: _[Projeto - Movie Cards Library]()_
 
 ##### Bloco 12: React
 
-- [ :hourglass_flowing_sand: ] 12-1: _Components com estado_
-- [ :hourglass_flowing_sand: ] 12-2: _Eventos e formulários no React_
-- [ :hourglass_flowing_sand: ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [ :heavy_check_mark: ] 12-1: _Components com estado_
+- [ :heavy_check_mark: ] 12-2: _Eventos e formulários no React_
+- [ :heavy_check_mark: ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
 
 ##### Bloco 13: React
 
-- [ :hourglass_flowing_sand: ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ :hourglass_flowing_sand: ] 13-2: _Ciclo de vida de componentes em React_
-- [ :hourglass_flowing_sand: ] 13-3: _React Router_
-- [ :hourglass_flowing_sand: ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [ :heavy_check_mark: ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
+- [ :heavy_check_mark: ] 13-2: _Ciclo de vida de componentes em React_
+- [ :heavy_check_mark: ] 13-3: _React Router_
+- [ :heavy_check_mark: ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
 
 ##### Bloco 14: Metodologias Ágeis
 
-- [ :hourglass_flowing_sand: ] 14-1: _Metodologias Ágeis_
-- [ :hourglass_flowing_sand: ] 14-2: _[Projeto - Frontend Online Store]()_
+- [ :heavy_check_mark: ] 14-1: _Metodologias Ágeis_
+- [ :heavy_check_mark: ] 14-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 15: Testes em React
 
-- [ :hourglass_flowing_sand: ] 15-1: _Testando React com a React Testing Library_
-- [ :hourglass_flowing_sand: ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ :hourglass_flowing_sand: ] 15-3: _[Projeto - Testes em React]()_
+- [ :heavy_check_mark: ] 15-1: _Testando React com a React Testing Library_
+- [ ::heavy_check_mark:] 15-2: _Testando React com a React Testing Library - Parte 2_
+- [ :heavy_check_mark: ] 15-3: _[Projeto - Testes em React]()_
 
 ##### Bloco 16: Introdução ao Redux
 
-- [ :hourglass_flowing_sand: ] 16-1: _Introdução ao Redux_
-- [ :hourglass_flowing_sand: ] 16-2: _React com Redux - Parte 1_
-- [ :hourglass_flowing_sand: ] 16-3: _React com Redux - Prática_
-- [ :hourglass_flowing_sand: ] 16-4: _React com Redux - Parte 2_
-- [ :hourglass_flowing_sand: ] 16-5: _Testes síncronos com React-Redux_
-- [ :hourglass_flowing_sand: ] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [ :heavy_check_mark: ] 16-1: _Introdução ao Redux_
+- [ :heavy_check_mark: ] 16-2: _React com Redux - Parte 1_
+- [ :heavy_check_mark: ] 16-3: _React com Redux - Prática_
+- [ :heavy_check_mark: ] 16-4: _React com Redux - Parte 2_
+- [ :heavy_check_mark: ] 16-5: _Testes síncronos com React-Redux_
+- [ :heavy_check_mark: ] 16-6: _[Projeto - Tabela com filtros de dados]()_
 
 ##### Bloco 17: Projeto React
 
-- [ :hourglass_flowing_sand: ] 17-1: _[Projeto - Jogo de Trivia]()_
+- [ :heavy_check_mark: ] 17-1: _[Projeto - Jogo de Trivia]()_
 
 ##### Bloco 18: React & Context API
 
-- [ :hourglass_flowing_sand: ] 18-1: _Context API do React_
-- [ :hourglass_flowing_sand: ] 18-2: _React Hooks - useState e useContext_
-- [ :hourglass_flowing_sand: ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ :hourglass_flowing_sand: ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [ :heavy_check_mark: ] 18-1: _Context API do React_
+- [ :heavy_check_mark: ] 18-2: _React Hooks - useState e useContext_
+- [ :heavy_check_mark: ] 18-3: _React Hooks - useEffect e Hooks customizados_
+- [ :heavy_check_mark: ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
 ##### Bloco 19: Projeto Final de Front-end
 
-- [ :hourglass_flowing_sand: ] 19-1: _[Projeto - App de Receitas]()_
+- [ :heavy_check_mark: ] 19-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
-- [ :hourglass_flowing_sand: ] 20-1: _Banco de dados SQL_
-- [ :hourglass_flowing_sand: ] 20-2: _Encontrando dados em um banco de dados_
+- [ :heavy_check_mark: ] 20-1: _Banco de dados SQL_
+- [ :heavy_check_mark: ] 20-2: _Encontrando dados em um banco de dados_
 - [ :hourglass_flowing_sand: ] 20-3: _Filtrando dados de forma específica_
 - [ :hourglass_flowing_sand: ] 20-4: _Manipulando tabelas_
 - [ :hourglass_flowing_sand: ] 20-5: _[Projeto - All For One]()_
