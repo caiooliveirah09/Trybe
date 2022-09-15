@@ -68,7 +68,7 @@ INSERT INTO Vendas(fornecimento, quantity, order_date)
     (9, 5, '2020-05-13 14:05:19');
 ```
 
-1. Vamos lá! Faça uma consulta que retorne todas as peças que começam com as letras GR.
+:heavy_check_mark: 1. Vamos lá! Faça uma consulta que retorne todas as peças que começam com as letras GR.
 
 **R:**
 ```
@@ -77,7 +77,7 @@ SELECT * FROM Pecas
 WHERE name LIKE 'GR%';
 ```
 
-2. Agora, escreva uma query para mostrar todos os fornecimentos que contenham a peça com code 2. Organize o resultado por ordem alfabética de fornecedor.
+:heavy_check_mark: 2. Agora, escreva uma query para mostrar todos os fornecimentos que contenham a peça com code 2. Organize o resultado por ordem alfabética de fornecedor.
 
 **R:**
 ```
@@ -86,7 +86,7 @@ SELECT * FROM Fornecimentos
 WHERE peca = 2 ORDER BY fornecedor;
 ```
 
-3. Em seguida, faça uma consulta para exibir as peças, preço e fornecedor de todos os fornecimentos em que o código do fornecedor tenha a letra N.
+:heavy_check_mark: 3. Em seguida, faça uma consulta para exibir as peças, preço e fornecedor de todos os fornecimentos em que o código do fornecedor tenha a letra N.
 
 **R:**
 ```
@@ -95,7 +95,7 @@ SELECT peca, preco, fornecedor FROM Fornecimentos
 WHERE fornecedor LIKE '%N%';
 ```
 
-4. Avante, falta pouco! Escreva uma query para exibir todas as informações dos fornecedores que são empresas limitadas (LTDA). Ordene esses resultados em ordem alfabética decrescente.
+:heavy_check_mark: 4. Avante, falta pouco! Escreva uma query para exibir todas as informações dos fornecedores que são empresas limitadas (LTDA). Ordene esses resultados em ordem alfabética decrescente.
 
 **R:**
 ```
@@ -104,7 +104,7 @@ SELECT * FROM Fornecedores
 WHERE name LIKE '%LTDA' ORDER BY name DESC;
 ```
 
-5. Agora, faça uma consulta para exibir o número de empresas (fornecedores) que contém a letra F no código.
+:heavy_check_mark: 5. Agora, faça uma consulta para exibir o número de empresas (fornecedores) que contém a letra F no código.
 
 **R:**
 ```
@@ -113,7 +113,7 @@ SELECT COUNT(*) FROM Fornecedores
 WHERE code LIKE '%F%';
 ```
 
-6. Quase lá! Agora escreva uma query para exibir os fornecimentos onde as peças custam mais de R$15,00 e menos de $40,00. Ordene os resultados por ordem crescente.
+:heavy_check_mark: 6. Quase lá! Agora escreva uma query para exibir os fornecimentos onde as peças custam mais de R$15,00 e menos de $40,00. Ordene os resultados por ordem crescente.
 
 **R:**
 ```
@@ -122,7 +122,7 @@ SELECT * FROM Fornecimentos
 WHERE preco BETWEEN 15 AND 40 ORDER BY preco;
 ```
 
-7. Ufa! Por fim, faça uma query para exibir o número de vendas feitas entre o dia 15/04/2018 e o dia 30/07/2019
+:heavy_check_mark: 7. Ufa! Por fim, faça uma query para exibir o número de vendas feitas entre o dia 15/04/2018 e o dia 30/07/2019
 
 **R:**
 ```
